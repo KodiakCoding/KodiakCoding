@@ -30,13 +30,28 @@ I'm a passionate and dedicated professional with a strong background in web deve
 - UI/UX Design
 - Project Management
 
-## Projects
+### Projects
 
-Here are some of the noteworthy projects I have worked on:
+Here are some of my noteworthy projects:
 
-- Project A: [Description of Project A]
-- Project B: [Description of Project B]
-- Project C: [Description of Project C]
+#### This Portfolio
+![This Portfolio](this_project.png)
+Description: An immersive web portfolio showcasing creative works, achievements, and expertise, captivating audiences with compelling visuals and engaging storytelling.
+Hashtags: #react #threejs #tailwind
+[View Source Code](https://kodiakcoding.com)
+
+#### CLI & GPT-4 App
+![CLI & GPT-4 App](terminal.png)
+Description: Unleashing the potential of Material-UI DataGrid and Term-x JavaScript libraries, I created a responsive and interactive web app. Powered by the GPT-4 API, it offers prompt and intelligent responses, revolutionizing user engagement with information.
+Hashtags: #react #restapi #scss
+[View Source Code](https://github.com/)
+
+#### Option Pricing Model
+![Option Pricing Model](option_pricing.png)
+Description: A versatile financial tool enabling precise calculations for option pricing, considering volatility, time, and risk-free rate, bringing clarity to derivatives markets.
+Hashtags: #Google-Apps #HP-Computing #Matrices
+[More Information](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
+
 
 Feel free to explore these projects in detail in the respective directories of this repository! 🔍
 
