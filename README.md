@@ -34,24 +34,23 @@ I'm a passionate and dedicated professional with a strong background in web deve
 
 Here are some of my noteworthy projects:
 
-#### This Portfolio
-![This Portfolio](this_project.png)
-Description: An immersive web portfolio showcasing creative works, achievements, and expertise, captivating audiences with compelling visuals and engaging storytelling.
-Hashtags: #react #threejs #tailwind
-[View Source Code](https://kodiakcoding.com)
+#### This Portfolio 🌐
 
-#### CLI & GPT-4 App
-![CLI & GPT-4 App](terminal.png)
-Description: Unleashing the potential of Material-UI DataGrid and Term-x JavaScript libraries, I created a responsive and interactive web app. Powered by the GPT-4 API, it offers prompt and intelligent responses, revolutionizing user engagement with information.
-Hashtags: #react #restapi #scss
-[View Source Code](https://github.com/)
+- An immersive web portfolio showcasing my creative works, achievements, and expertise.
+- Captivates audiences with compelling visuals and engaging storytelling.
+- Provides a captivating browsing experience.
 
-#### Option Pricing Model
-![Option Pricing Model](option_pricing.png)
-Description: A versatile financial tool enabling precise calculations for option pricing, considering volatility, time, and risk-free rate, bringing clarity to derivatives markets.
-Hashtags: #Google-Apps #HP-Computing #Matrices
-[More Information](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
+#### CLI & GPT-4 App 💻🚀
 
+- Developed a responsive and interactive web app utilizing Material-UI DataGrid and Term-x JavaScript libraries.
+- Leveraged the power of the GPT-4 API to offer prompt and intelligent responses.
+- Revolutionizes user engagement with information from LLM
+
+#### Option Pricing Model 💰📊
+
+- Built a versatile financial tool for precise calculations of option pricing.
+- Takes into account factors such as volatility, time, and risk-free rate.
+- Provides clarity to derivatives markets.
 
 Feel free to explore these projects in detail in the respective directories of this repository! 🔍
 
