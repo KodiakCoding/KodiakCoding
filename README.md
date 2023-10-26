@@ -57,7 +57,7 @@ Feel free to explore these projects in detail in the respective directories of t
 
 I would love to connect and discuss potential opportunities. You can reach me at:
 
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile URL]
+- Email: KodiakCoding@gmail.com
+- Twitter: x.com/KodiakCoding
 
 Let's collaborate and make an impact together! 😊
