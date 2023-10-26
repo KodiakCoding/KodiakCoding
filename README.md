@@ -16,7 +16,6 @@ I'm a passionate and dedicated professional with a strong background in web deve
 
 ## Experience
 
-- Managed the reception and distribution of millions of dollars worth of inventory annually at Whole Foods Market/Amazon, ensuring accuracy and time efficiency. 📦
 - Developed and customized Wix websites for clients, delivering high-quality web solutions tailored to their specific needs and requirements. 🌐
 - Created a VBA program to automate vendor communication regarding late invoices, resulting in improved efficiency and timely resolution of payment discrepancies. 💼
 - Leveraged G-Suite technologies in conjunction with MongoDB to develop efficient data solutions for improved data management and analysis. 📊
